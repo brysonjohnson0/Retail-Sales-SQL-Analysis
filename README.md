@@ -2,7 +2,11 @@
 ## Project Overview
 Analyzed a retail sales dataset with nearly 10,000 retail transactions using SQL, SQLite, Python, and Pandas to identify sales trends, customer insights, and business performance.
 The objective of this project was to demonstrate SQL proficiency while applying analytical thinking to answer business questions and support business decision-making.
+
+
 **Tools Used**
+
+
 SQL
 SQLite
 Python
@@ -10,7 +14,11 @@ Pandas
 Google Colab
 Microsoft Excel
 GitHub
+
+
 **Dataset**
+
+
 Sample Superstore Dataset
 Approximately 10,000 retail transactions
 Imported into SQLite using Python and Pandas
@@ -57,5 +65,7 @@ Business Insights
 └── screenshots/
 
 **Author**
+
 **Bryson Johnson**
+
 Aspiring FP&A Analyst | Data Analyst | Basketball Analytics
